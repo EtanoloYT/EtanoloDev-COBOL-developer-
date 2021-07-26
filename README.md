@@ -1,4 +1,4 @@
-# EtanoloDev-COBOL-developer-
+# EtanoloDev COBOL developer
 Real things about me and my skills
 
 - 🐢 Hey, I'm @EtanoloYT
