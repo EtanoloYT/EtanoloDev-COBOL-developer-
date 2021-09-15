@@ -8,5 +8,5 @@ Real things about me and my skills
 - - Brainfuck
 - - And other minor languages
 - 📧 Contact me on:
-- - Discord (Fabrizio Di Tim#1111)
+- - Discord (Fabrizio Di Tim#5861)
 - - Odnoklassniki (Vadim Vinogradova)
