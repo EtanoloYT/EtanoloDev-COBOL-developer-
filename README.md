@@ -1,6 +1,6 @@
 # 👋 Hello, I'm
 
-<img src="https://fiatlinux.it/banner/1">
+![Simone Marangoni](https://github.com/EtanoloYT/EtanoloYT/blob/main/banner1.png)
 
 # 💫 About Me:
 
